@@ -1,4 +1,4 @@
 Proxy Scraper & Checker
 
 reqiurements
-`pip install beautifulsoup4 tqdm pysocks`
+`pip install bs4 tqdm pysocks`
